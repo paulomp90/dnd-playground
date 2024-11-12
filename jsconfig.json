@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "module": "ESNext",
+      "target": "ESNext",
+      // "lib": ["es2020", "DOM"],
+      "moduleResolution": "node",
+      // "checkJs": true,
+      "jsx": "react",
+    },
+    "exclude": ["node_modules", "**/node_modules", "dist"]
+  }
